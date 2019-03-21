@@ -1,10 +1,7 @@
 //Soorya Suresh
-//111458936
 //soorya.suresh@stonybrook.edu
 //Data Structures
-//CSE 214
-//R08 
-//Johnny So
+
 package searchengine;
 
 import java.io.BufferedReader;
